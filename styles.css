@@ -1,0 +1,11 @@
+.status-Ожидает-отправки {
+  background-color: #fff3cd;
+}
+
+.status-В-пути {
+  background-color: #cfe2ff;
+}
+
+.status-Доставлен {
+  background-color: #d1e7dd;
+}
